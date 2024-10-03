@@ -1,5 +1,5 @@
 /*
-Title: PacMan Game Assignment
+Title: PacMan Game
 Description: This program runs the PacMan game with a couple of added features to enhance the performance of the basic PacMan game. 
 			 The user can control the PacMan character by using the arrow keys.
 
