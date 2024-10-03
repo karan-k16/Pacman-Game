@@ -4,7 +4,7 @@ Description: This program runs the PacMan game with a couple of added features t
 			 The user can control the PacMan character by using the arrow keys.
 
 Major Skills: 
-Using multiple classes together, reading keyboard presses, reading text and image files, and using Java Swing GUI
+Using multiple classes together, utilizing arrays, reading keyboard presses, reading text and image files, and using Java Swing GUI
 
 Added Features:
 1. Score
